@@ -1,3 +1,3 @@
 print(23+34)
-
-print("helliu")
+print("this is my new object")
+print("hellgitiu")
